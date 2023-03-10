@@ -1,0 +1,1 @@
+window.alert("The script is working properly!")
